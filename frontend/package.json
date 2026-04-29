@@ -1,0 +1,18 @@
+{
+  "name": "edit-docx-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "mammoth": "latest",
+    "vite": "latest",
+    "vue": "latest",
+    "web-highlighter": "latest"
+  },
+  "devDependencies": {}
+}
